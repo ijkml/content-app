@@ -6,12 +6,9 @@ Try to navigate to [/about](/about). These 2 pages are rendered by the `pages/[.
 
 ## Testing inline code highlighting...
 
-This should work... or not. `const codeInline: string = 'code inline'`{lang="ts"}
-
+This should work... or not yet. `const codeInline: string = 'code inline'`{lang="ts"}
 
 ### Code block with syntax highlighting...
-
-
 
 ```typescript [filename]{1,3-5}meta
 import { parseMarkdown } from '@nuxtjs/mdc/runtime';
@@ -24,8 +21,10 @@ async function main(mdc: string) {
   return ast
 }
 ```
+
 ```
 
 ---
 
 Look at the [Content documentation](https://content.nuxtjs.org/) to learn more.
+```
