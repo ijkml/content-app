@@ -8,6 +8,7 @@
 .prose {
   max-width: 65ch;
   margin: auto;
+  padding: 4rem 1rem;
 }
 
 :deep(pre) {
