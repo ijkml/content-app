@@ -14,9 +14,6 @@
 :deep(pre) {
   padding: 1rem;
   border-radius: 6px;
-}
-
-:deep(pre .highlight) {
-  background-color: black;
+  outline: 1px solid black;
 }
 </style>

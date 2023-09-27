@@ -23,9 +23,10 @@ async function main(mdc: string) {
 }
 ```
 
-```
+<br>
 
 ---
 
+<br>
+
 Look at the [Content documentation](https://content.nuxtjs.org/) to learn more.
-```
