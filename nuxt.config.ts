@@ -5,7 +5,7 @@ export default defineNuxtConfig({
   content: {
     documentDriven: true,
     highlight: {
-      // theme: 'monokai'
+      theme: 'vitesse-light'
     }
   }
 })

@@ -6,7 +6,8 @@ Try to navigate to [/about](/about). These 2 pages are rendered by the `pages/[.
 
 ## Testing inline code highlighting...
 
-This should work... or not yet. `const codeInline: string = 'code inline'`{lang="ts"}
+This works now! `const codeInline: string = 'code inline'`{lang="ts"}
+
 
 ### Code block with syntax highlighting...
 
